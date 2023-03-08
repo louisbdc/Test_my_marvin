@@ -52,3 +52,4 @@ credentials:
               privateKeySource:
                 directEntry:
                   privateKey: ${SSH_PRIVATE_KEY}
+                  
